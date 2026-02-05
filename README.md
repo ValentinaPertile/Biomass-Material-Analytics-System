@@ -1,6 +1,6 @@
 # BioMechanalyze: Mechanical Testing Analysis & Visualization System 
 
-> **Collaboration with CONICET** > This system was developed as a specialized solution for **CONICET** (National Scientific and Technical Research Council) to automate the processing and analysis of biodegradable materials derived from biomass.
+> **Collaboration with CONICET** > This system was developed as a specialized solution for **CONICET** to automate the processing and analysis of biodegradable materials derived from biomass.
 
 ---
 
